@@ -39,3 +39,8 @@ ubuntu-bionic-18.04-cloudimg-console.log
 # yii runtime
 
 /runtime/*
+
+# jekyll
+
+/_site
+Gemfile.lock
